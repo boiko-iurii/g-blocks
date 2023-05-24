@@ -1,3 +1,3 @@
-# iurii-gutenberg-blocks
-Custom Plugin for Wordpress
+# g-blocks
+Custom Gutenberg Blocks for Wordpress
 #
